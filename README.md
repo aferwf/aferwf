@@ -2,8 +2,9 @@
 <p align="center">Welcome, feel free to explore!</p>
 
 <p align="center">
-  <img src="assets/sxk77e6.gif" alt="GIF animado" width="200"/>
+  <img src="https://raw.githubusercontent.com/aferwf/aferwf/main/assets/sxk77e6.gif" alt="GIF animado" width="200"/>
 </p>
+
 
 
 
