@@ -1,4 +1,24 @@
-## Hey, i'm aferwf ୨୧
+<h1 align="center">𐙚 Hi, I'm Fernanda (aferwf) 𐙚</h1>
+<p align="center">Welcome, feel free to explore!</p>
 
-- she/her
+---
 
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aferwf&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aferwf&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,react,git,github,vscode,eclipse&theme=light" height="30"/>
+</p>
+
+---
+
+<p align="center">⋆⭒˚.⋆ Thanks for visiting my profile! ⋆⭒˚.⋆</p>
+<p align="center">
+  <a href="mailto:fernanda.walther.ff@gmail.com"><img src="https://img.shields.io/badge/Email-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/fernanda-walther-fernandes/"><img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
