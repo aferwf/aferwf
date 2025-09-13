@@ -2,7 +2,7 @@
 <p align="center">Welcome, feel free to explore!</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/13af38a2-9079-4645-a5d8-f2e4722e16e1" alt="GIF exemplo" width="200"/>
+  <img src="assets/sxk77e6.gif" alt="GIF width="200"/>
 </p>
 
 
