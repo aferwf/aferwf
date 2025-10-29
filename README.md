@@ -19,8 +19,9 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,react,git,github,vscode,eclipse&theme=light" height="30"/>
+  <img src="https://skillicons.dev/icons?i=java,c,mysql,html,css,js,ts,react,git,github,vscode,eclipse&theme=light" height="30"/>
 </p>
+
 
 ---
 
