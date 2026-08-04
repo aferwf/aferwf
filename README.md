@@ -10,12 +10,9 @@
 
 ---
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/openjdk" alt="Java" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/sap" alt="SAP" width="30" height="30"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,mysql,github,figma,canva&theme=light" height="30"/>
+  <img src="https://cdn.simpleicons.org/sap/0FAAFF" height="30" alt="SAP"/>
 </p>
 
 
