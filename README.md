@@ -10,10 +10,10 @@
 
 ---
 
-<p align="center">
+<div style="display:flex; align-items:center; gap:6px;">
   <img src="https://skillicons.dev/icons?i=java,mysql,github,figma,canva&theme=light" height="30"/>
-  <img src="https://cdn.simpleicons.org/sap/0FAAFF" height="30" alt="SAP"/>
-</p>
+  <img src="https://cdn.simpleicons.org/sap" height="24" alt="SAP"/>
+</div>
 
 
 ---
