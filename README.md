@@ -10,10 +10,14 @@
 
 ---
 
-<div style="display:flex; align-items:center; gap:6px;">
-  <img src="https://skillicons.dev/icons?i=java,mysql,github,figma,canva&theme=light" height="30"/>
-  <img src="https://cdn.simpleicons.org/sap" height="24" alt="SAP"/>
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/canva" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/sap" width="30" height="30"/>
+</p>
 
 
 ---
