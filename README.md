@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,ts,react,git,github,vscode,eclipse,figma,canva&theme=light" height="30"/>
+  <img src="https://skillicons.dev/icons?i=java,mysql,git,sap,figma,canva&theme=light" height="30"/>
 </p>
 
 
