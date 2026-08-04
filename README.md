@@ -11,7 +11,8 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,github,abap,figma,canva&theme=light" height="30"/>
+  <img src="https://skillicons.dev/icons?i=java,mysql,github,figma,canva&theme=light" height="30"/>
+  <img src="https://cdn.simpleicons.org/sap/0FAAFF" height="30" alt="SAP"/>
 </p>
 
 
