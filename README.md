@@ -15,7 +15,6 @@
   <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="30" height="30"/>
   <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="30" height="30"/>
   <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/canva" alt="Canva" width="30" height="30"/>
   <img src="https://cdn.simpleicons.org/sap" alt="SAP" width="30" height="30"/>
 </p>
 
