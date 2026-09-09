@@ -17,7 +17,7 @@
 
 
 
-### ⋆.˚ Tech Stack ⋆.˚ <img src="https://skillicons.dev/icons?i=java,javascript,mysql,html,css,figma,canva&theme=light" height="25"/> <img src="https://cdn.simpleicons.org/sap/0FAAFF" height="25" alt="SAP"/>
+### ⋆.˚ Tech Stack ⋆.˚ <img src="https://skillicons.dev/icons?i=java,javascript,mysql,html,css,figma,canva&theme=light" height="25"/><img src="https://cdn.simpleicons.org/sap/0FAAFF" height="25" alt="SAP"/>
  
  
 ---
