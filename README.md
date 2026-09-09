@@ -10,12 +10,11 @@
  
 ### ⋆.˚ About me ⋆.˚
  
-- ⋆ Desenvolvedora Júnior, Tecnologias SAP
-- ⋆ Estudante de Análise e Desenvolvimento de Sistemas
-- ⋆ Interesse em UI/UX e web design
+- ⋆ Junior Developer, SAP Technologies
+- ⋆ Systems Analysis and Development Student
+- ⋆ Interested in UI/UX and Web Design
 
 
----
 
  ### ⋆.˚ Tech Stack ⋆.˚
  
